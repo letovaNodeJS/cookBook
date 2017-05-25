@@ -41,7 +41,6 @@ app.use(function(req, res, next) {
 });
 
 
-//Все остальные строки - сгенерированы автоматически express-generator
 
 // error handler
 app.use(function(err, req, res, next) {
